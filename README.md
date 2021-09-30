@@ -1,3 +1,7 @@
+This Python project is a part of my research paper about evaluating PLTL provers by *specific* **(To be determined)** criteria.
+
+The goal of this project is to improve the original [PLTL-prover](https://github.com/Pingvidas/PLTL-prover) created by [Gvidas Tupinis](https://github.com/Pingvidas) by optimizing for time and efficiency.
+
 # PLTL-prover
 Sequent prover for PLTL logic
 
